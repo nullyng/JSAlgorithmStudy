@@ -71,3 +71,12 @@
 | 7    | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)                   | 프로그래머스 | Lv.2    | 2018 KAKAO BLIND RECRUITMENT                |
 | 7    | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)            | 프로그래머스 | Lv.2    | 2018 KAKAO BLIND RECRUITMENT                |
 | 7    | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)        | 프로그래머스 | Lv.2    | 2018 KAKAO BLIND RECRUITMENT                |
+| 7    | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)            | 프로그래머스 | Lv.2    | 2021 카카오 채용연계형 인턴십               |
+| 7    | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)                  | 프로그래머스 | Lv.2    | 2020 카카오 인턴십                          |
+| 7    | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)                         | 프로그래머스 | Lv.2    | 2019 카카오 개발자 겨울 인턴십              |
+| 8    | [단체사진 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/1835)                 | 프로그래머스 | Lv.2    | 2017 카카오코드 본선                        |
+| 8    | [카카오프렌즈 컬러링북](https://school.programmers.co.kr/learn/courses/30/lessons/1829)         | 프로그래머스 | Lv.2    | 2017 카카오코드 예선                        |
+| 8    | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)              | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌3                      |
+| 8    | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)             | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌3                      |
+| 8    | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)         | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌2                      |
+| 8    | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌2                      |
