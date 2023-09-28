@@ -1,7 +1,8 @@
-# MyAlgorithmStudy
+# 혼자하는 자바스크립트 알고리즘 스터디
 
 - `2023.07.17` ~
-- 👑 **목표: 자바스크립트 실력 향상**
+- 👑 목표: 자바스크립트 및 알고리즘 실력 향상
+- 📌 현재 **11주째** 꾸준히 푸는 중
 - 주말, 공휴일을 제외하고 하루에 적어도 한 개 이상의 문제 풀고 commit
 - README 파일에 풀이 방법과 알게 된 점 작성하기
 
@@ -80,3 +81,21 @@
 | 8    | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)             | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌3                      |
 | 8    | [2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)         | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌2                      |
 | 8    | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)                | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌2                      |
+| 9    | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)           | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌1                      |
+| 9    | [쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)        | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌1                      |
+| 9    | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)                  | 프로그래머스 | Lv.2    | 월간 코드 챌린지 시즌1                      |
+| 9    | [멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)                | 프로그래머스 | Lv.2    | Summer/Winter Coding(2019)                  |
+| 9    | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                    | 프로그래머스 | Lv.2    | Summer/Winter Coding(~2018)                 |
+| 9    | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)                     | 프로그래머스 | Lv.2    | Summer/Winter Coding(~2018)                 |
+| 10   | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)                | 프로그래머스 | Lv.2    | Summer/Winter Coding(~2018)                 |
+| 10   | [점프와 순간 이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)             | 프로그래머스 | Lv.2    | Summer/Winter Coding(~2018)                 |
+| 10   | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)                         | 프로그래머스 | Lv.2    | Summer/Winter Coding(~2018)                 |
+| 10   | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)             | 프로그래머스 | Lv.2    | 위클리 챌린지                               |
+| 10   | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)                  | 프로그래머스 | Lv.2    | 2017 팁스타운                               |
+| 10   | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)              | 프로그래머스 | Lv.2    | 2017 팁스타운                               |
+| 11   | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)                 | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 11   | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)        | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 11   | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)       | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 11   | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)               | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 11   | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 11   | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)                 | 프로그래머스 | Lv.2    | 연습문제                                    |
