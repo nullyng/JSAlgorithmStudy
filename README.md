@@ -1,8 +1,8 @@
-# 혼자하는 자바스크립트 알고리즘 스터디
+# 자바스크립트 알고리즘 스터디
 
 - `2023.07.17` ~
 - 👑 목표: 자바스크립트 및 알고리즘 실력 향상
-- 📌 현재 **11주째** 꾸준히 푸는 중
+- 📌 현재 **14주째** 꾸준히 푸는 중
 - 주말, 공휴일을 제외하고 하루에 적어도 한 개 이상의 문제 풀고 commit
 - README 파일에 풀이 방법과 알게 된 점 작성하기
 
@@ -99,3 +99,20 @@
 | 11   | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)               | 프로그래머스 | Lv.2    | 연습문제                                    |
 | 11   | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
 | 11   | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)                 | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 12   | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 12   | [혼자 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)            | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 12   | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 12   | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 12   | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)                 | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 12   | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)        | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 13   | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)               | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 13   | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 13   | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)           | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 13   | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)            | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 13   | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)                 | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 14   | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)                     | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 14   | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 14   | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)            | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 14   | [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)             | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 14   | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)             | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 14   | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)          | 프로그래머스 | Lv.2    | 연습문제                                    |
