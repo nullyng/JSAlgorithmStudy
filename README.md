@@ -116,3 +116,15 @@
 | 14   | [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)             | 프로그래머스 | Lv.2    | 연습문제                                    |
 | 14   | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)             | 프로그래머스 | Lv.2    | 연습문제                                    |
 | 14   | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)          | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 15   | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)                    | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 15   | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)    | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 15   | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)            | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 15   | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)                   | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 15   | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)                       | 프로그래머스 | Lv.2    | 완전탐색                                    |
+| 15   | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)         | 프로그래머스 | Lv.2    | 완전탐색                                    |
+| 16   | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)                     | 프로그래머스 | Lv.2    | 완전탐색                                    |
+| 16   | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)                         | 프로그래머스 | Lv.2    | 완전탐색                                    |
+| 16   | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                    | 프로그래머스 | Lv.2    | 완전탐색                                    |
+| 16   | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                      | 프로그래머스 | Lv.2    | 정렬                                        |
+| 16   | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                   | 프로그래머스 | Lv.2    | 정렬                                        |
+| 16   | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                     | 프로그래머스 | Lv.2    | 스택                                        |
