@@ -2,7 +2,7 @@
 
 - `2023.07.17` ~
 - 👑 목표: 자바스크립트 및 알고리즘 실력 향상
-- 📌 현재 **14주째** 꾸준히 푸는 중
+- 📌 현재 **17주째** 꾸준히 푸는 중
 - 주말, 공휴일을 제외하고 하루에 적어도 한 개 이상의 문제 풀고 commit
 - README 파일에 풀이 방법과 알게 된 점 작성하기
 
@@ -127,4 +127,10 @@
 | 16   | [소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)                    | 프로그래머스 | Lv.2    | 완전탐색                                    |
 | 16   | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)                      | 프로그래머스 | Lv.2    | 정렬                                        |
 | 16   | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)                   | 프로그래머스 | Lv.2    | 정렬                                        |
-| 16   | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                     | 프로그래머스 | Lv.2    | 스택                                        |
+| 16   | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)                     | 프로그래머스 | Lv.2    | 스택/큐                                     |
+| 17   | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)                     | 프로그래머스 | Lv.2    | 스택/큐                                     |
+| 17   | [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)           | 프로그래머스 | Lv.2    | 스택/큐                                     |
+| 17   | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)                         | 프로그래머스 | Lv.2    | 해시                                        |
+| 17   | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                | 프로그래머스 | Lv.2    | 해시                                        |
+| 17   | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)             | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 17   | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)      | 프로그래머스 | Lv.2    | 연습문제                                    |
