@@ -2,7 +2,7 @@
 
 - `2023.07.17` ~
 - 👑 목표: 자바스크립트 및 알고리즘 실력 향상
-- 📌 현재 **17주째** 꾸준히 푸는 중
+- 📌 현재 **18주째** 꾸준히 푸는 중
 - 주말, 공휴일을 제외하고 하루에 적어도 한 개 이상의 문제 풀고 commit
 - README 파일에 풀이 방법과 알게 된 점 작성하기
 
@@ -134,3 +134,9 @@
 | 17   | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)                | 프로그래머스 | Lv.2    | 해시                                        |
 | 17   | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)             | 프로그래머스 | Lv.2    | 연습문제                                    |
 | 17   | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)      | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 18   | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)                      | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 18   | [행렬의 곱셈](https://school.programmers.co.kr/learn/courses/30/lessons/12949)                  | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 18   | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)                  | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 18   | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)                  | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 18   | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)                | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 18   | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)              | 프로그래머스 | Lv.2    | 연습문제                                    |
