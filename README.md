@@ -2,7 +2,7 @@
 
 - `2023.07.17` ~
 - 👑 목표: 자바스크립트 및 알고리즘 실력 향상
-- 📌 현재 **18주째** 꾸준히 푸는 중
+- 📌 현재 **19주째** 꾸준히 푸는 중
 - 주말, 공휴일을 제외하고 하루에 적어도 한 개 이상의 문제 풀고 commit
 - README 파일에 풀이 방법과 알게 된 점 작성하기
 
@@ -140,3 +140,9 @@
 | 18   | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)                  | 프로그래머스 | Lv.2    | 연습문제                                    |
 | 18   | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)                | 프로그래머스 | Lv.2    | 연습문제                                    |
 | 18   | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)              | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 19   | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)                 | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 19   | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)                    | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 19   | [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)                  | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 19   | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)        | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 19   | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)              | 프로그래머스 | Lv.2    | 연습문제                                    |
+| 19   | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)              | 프로그래머스 | Lv.2    | 깊이/너비 우선 탐색(DFS/BFS)                |
